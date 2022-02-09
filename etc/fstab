@@ -1,0 +1,4 @@
+
+/dev/sda1   /     ext4  defaults,noatime,nodiratime,discard,errors=remount-ro   0   1
+/dev/sda2   swap  swap  sw,noatime,nodiratime                                   0   0
+# /dev/sda6   /home     ext4 defaults,noatime,nodiratime,discard,errors=remount-ro    0   1
